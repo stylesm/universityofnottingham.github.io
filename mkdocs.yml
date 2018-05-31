@@ -1,0 +1,29 @@
+site_name: University of Nottingham
+theme: 'material'
+repo_name: 'universityofnottingham.github.io'
+repo_url: 'https://github.com/UniversityOfNottingham/universityofnottingham.github.io'
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false)
+  - toc(permalink=true)
+  - footnotes
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+extra:
+  repo_icon: github
+
+pages:
+  - Home: index.md
+  - Policies: policies.md
