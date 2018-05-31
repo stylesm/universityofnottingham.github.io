@@ -1,6 +1,6 @@
 We currently offer three platforms for solutions built by Application Development, and they should be chosen based on project needs:
 
-!!! warning "Each platform's own standards and guidance must be followed."
+!!! warning "Each platform's own Standards and Guidelines must be followed."
 
 !!! success "We use .NET Core"
     .NET Core can be used to fulfill the following use cases:

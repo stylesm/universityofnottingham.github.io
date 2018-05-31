@@ -29,7 +29,8 @@ pages:
   - Policies: policies.md
   - Standards:
     - Target Platforms: standards/target-platforms.md
+    - Version Control: standards/version-control.md
+    - Versioning: standards/versioning.md
     - JavaScript: standards/javascript.md
     - CSS: standards/css.md
     - PHP: standards/php.md
-    - Version Control: standards/version-control.md
