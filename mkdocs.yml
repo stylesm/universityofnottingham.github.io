@@ -28,7 +28,8 @@ pages:
   - Home: index.md
   - Policies: policies.md
   - Standards:
-    - Code Quality and Standards: standards/code.md
-    - Javascript: standards/javascript.md
+    - Target Platforms: standards/target-platforms.md
+    - JavaScript: standards/javascript.md
+    - CSS: standards/css.md
     - PHP: standards/php.md
     - Version Control: standards/version-control.md
