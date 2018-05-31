@@ -28,9 +28,9 @@ pages:
   - Home: index.md
   - Policies: policies.md
   - Standards:
-    - Target Platforms: standards/target-platforms.md
-    - Version Control: standards/version-control.md
-    - Versioning: standards/versioning.md
-    - JavaScript: standards/javascript.md
-    - CSS: standards/css.md
-    - PHP: standards/php.md
+    - Target Platforms: Standards/target-platforms.md
+    - Version Control: Standards/version-control.md
+    - Versioning: Standards/versioning.md
+    - JavaScript: Standards/javascript.md
+    - CSS: Standards/css.md
+    - PHP: Standards/php.md
