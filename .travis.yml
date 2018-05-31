@@ -1,0 +1,13 @@
+language: python
+install:
+  - pip install mkdocs mkdocs-material pygments pymdown-extensions
+script:
+  - mkdocs build --verbose --clean --strict
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: site
+  on:
+    branch: master
+    condition: $TRAVIS_PULL_REQUEST = "false"
