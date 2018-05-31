@@ -1,7 +1,7 @@
 site_name: University of Nottingham
 theme: 'material'
-repo_name: 'universityofnottingham.github.io'
 repo_url: 'https://github.com/UniversityOfNottingham/universityofnottingham.github.io'
+edit_uri: 'edit/source/docs/'
 markdown_extensions:
   - admonition
   - codehilite(guess_lang=false)
@@ -27,3 +27,8 @@ extra:
 pages:
   - Home: index.md
   - Policies: policies.md
+  - Standards:
+    - Code Quality and Standards: standards/code.md
+    - Javascript: standards/javascript.md
+    - PHP: standards/php.md
+    - Version Control: standards/version-control.md
