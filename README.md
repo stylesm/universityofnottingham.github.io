@@ -1,4 +1,6 @@
-# University of Nottingham Software Development Documentation
+# University of Nottingham Software Development
+
+[![Build Status](https://travis-ci.org/UniversityOfNottingham/universityofnottingham.github.io.svg?branch=master)](https://travis-ci.org/UniversityOfNottingham/universityofnottingham.github.io)
 
 ## What is this?
 
@@ -14,9 +16,13 @@ It's publicly available because it can be, so it should be.
 
 ## How does it work?
 
-Please use `master` as the source of authority. Any other branch is a work in progress or preserved for historical reasons.
+Please use the `source` branch as the source of authority.
 
-`master` is built by [Travis] using [MkDocs] and hosted by [Github Pages].
+`master` is the branch used to serve the built documentation.
+
+Any other branch is a work in progress or preserved for historical reasons.
+
+`source` is built by [Travis] using [MkDocs] and deployed to `master` hosted by [Github Pages].
 
 # Contributing
 
@@ -27,7 +33,7 @@ These can be corrections, additions, or just suggestions.
 1. Read the rest of this contributing section so you know your changes are appropriate.
 1. Make a branch.
 1. Make your changes / additions.
-1. Submit a pull request to master, adding Senior Application Developers as reviewers.
+1. Submit a pull request to the `source` branch, adding Senior Application Developers as reviewers.
 1. Await comments, or approval.
 
 ## What format should docs be in?
@@ -42,11 +48,11 @@ These can be corrections, additions, or just suggestions.
     - ...
 - It's portable if we decide to move it elsewhere.
 
-### pymdownx
+### PyMdown Extensions
 
-We have a bunch of `pymdownx` Markdown extensions enabled. More can be enabled if required.
+We have a bunch of `PyMdown` Exetnsions enabled. More can be enabled if required.
 
-Refer to `mkdocs.yml` and the [MkDocs] and [pymdownx] documentation.
+Refer to `mkdocs.yml` and the [MkDocs] and [PyMdown Extensions] documentation.
 
 ## Filenames
 
@@ -70,4 +76,6 @@ Refer to [MkDocs] documentation for further details.
 [MkDocs]: http://www.mkdocs.org/
 [Visual Studio Code]: http://code.visualstudio.com/
 [Atom]: https://atom.io/
-[pymdownx]: https://facelessuser.github.io/pymdown-extensions/
+[PyMdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
+[travis]: https://travis-ci.org
+[Github Pages]: https://pages.github.com/
