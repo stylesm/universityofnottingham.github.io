@@ -1,6 +1,6 @@
 # University of Nottingham Software Development
 
-[![Build Status](https://travis-ci.org/UniversityOfNottingham/universityofnottingham.github.io.svg?branch=master)](https://travis-ci.org/UniversityOfNottingham/universityofnottingham.github.io)
+[![Build Status](https://travis-ci.org/UniversityOfNottingham/universityofnottingham.github.io.svg?branch=source)](https://travis-ci.org/UniversityOfNottingham/universityofnottingham.github.io)
 
 ## What is this?
 
