@@ -12,29 +12,46 @@
 
     They are very much a **public** versioning system intended for **humans**.
 
-!!! summary "A summary of Semantic Versioning"
+!!! summary "SemVer definition"
     SemVer is a 3 part numeric version number, with an optional string label:
     
     `MAJOR.MINOR.PATCH-label`
 
-    ### The numbers
+### The numbers
 
-    - Increment `MAJOR` when you make incompatible (breaking) API changes.
-        - This is very rare for us in our client-facing applications, but more common in integration APIs and common code libraries.
-    - Increment `MINOR` when you new features / functionality but remain backwards compatible.
-    - Increment `PATCH` when you make bug fixes.
+- Increment `MAJOR` when you make incompatible (breaking) API changes.
+    - This is very rare for us in our client-facing applications, but more common in integration APIs and common code libraries.
+- Increment `MINOR` when you new features / functionality but remain backwards compatible.
+- Increment `PATCH` when you make bug fixes.
 
-    ### The labels
+### The labels
 
-    SemVer allows use of any labels for any purpose
+SemVer allows use of any labels for any purpose
 
-    It is common to use `alpha.X` or `beta.X` (where `X` is an incrementing number) to pre-release version packages.
+It is common to use `alpha.X` or `beta.X` (where `X` is an incrementing number) to pre-release version packages.
 
-    Labels can be useful when deploying early releases from work-in-progress branches, to identify that the build is not intended to go into production.
+Labels can be useful when deploying early releases from work-in-progress branches, to identify that the build is not intended to go into production.
 
 [semantic versioning]: http://semver.org
 
-## Version discovery
+## Continuous Versioning
+
+!!! warning "SemVer doesn't work for Continuous Deployment."
+
+    **SemVer** is good practice, and provides useful version information to humans, but it breaks down in continuous release workflows, because the automated tooling responsible for releasing cannot make decisions about how meaningful code changes were, and therefore what effect they should have on a Semantic Version.
+
+    Therefore, in addition to SemVer, we need another versioning system for use with such a workflow.
+
+When we use the **Master Branch Only** Git workflow, we are moving towards a Continuous Deployment attitude, and so any given commit in the `master` branch could be deployed to Production, and therefore **must** be uniquely and identifiably versioned.
+
+Typically, we use our CI system to provide a unique version for a given release; either a build or release number, or a git commit hash, or something similar.
+
+Ideally, applications will be able to report on this version as well as their human-friendly semantic version (which may not change with every release). The CI system should provide this capability.
+
+!!! tip
+    Refer to **Guidelines** for versioning (coming soon) for examples of how this has been done on **Master Branch Only** projects to date.
+
+## Version reporting
 
 We should always be able to find out the version of an application we have made, preferably without having to log in, but preferably not publicly visible all the time.
 
