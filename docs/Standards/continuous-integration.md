@@ -1,4 +1,6 @@
-!!! success "We use [Visual Studio Team Services][VSTS] to automate builds and testing."
+!!! success "We use [Visual Studio Team Services][VSTS] to automate builds and testing of private repositories."
+
+!!! success "We use [Travis-CI] to automate builds and testing of public repositories."
 
 All projects should have their build tasks completed automatically on pushes to most branches.
 
@@ -34,3 +36,4 @@ Most of our applications are deployed by manually triggering a deployment to an 
     - The Service Management Team are then free to approve and schedule deployment of the release once all other conditions have been met.
 
 [VSTS]: https://universityofnottingham.visualstudio.com
+[Travis-CI] https://travis-ci.org

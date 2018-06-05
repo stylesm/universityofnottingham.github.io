@@ -32,6 +32,7 @@ pages:
     - Version Control: Standards/version-control.md
     - Versioning: Standards/versioning.md
     - Continuous Integration: Standards/continuous-integration.md
+    - Code Reviews: Standards/code-reviews.md
     - JavaScript: Standards/javascript.md
     - CSS: Standards/css.md
     - PHP: Standards/php.md
