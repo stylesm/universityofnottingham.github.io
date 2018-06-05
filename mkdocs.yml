@@ -31,6 +31,7 @@ pages:
     - Target Platforms: Standards/target-platforms.md
     - Version Control: Standards/version-control.md
     - Versioning: Standards/versioning.md
+    - Continuous Integration: Standards/continuous-integration.md
     - JavaScript: Standards/javascript.md
     - CSS: Standards/css.md
     - PHP: Standards/php.md
