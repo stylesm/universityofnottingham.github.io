@@ -38,9 +38,19 @@
 
 !!! success "Use [Swagger] with Swashbuckle for building and serving API documentation."
 
+## Unit Testing
+
+!!! info "Unit Testing is encouraged but not yet mandated."
+
+!!! success "We use [XUnit] for unit testing."
+
+!!! warning "Some older .NET Framework applications have unit tests in [Nunit] 2.x or 3.x."
+
 [JavaScript]: ../javascript.md
 [CSS]: ../css.md
 [XML Doc Comments]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/xml-documentation-comments
 [Swagger]: https://swagger.io/
 [Resharper]: https://www.jetbrains.com/resharper/
 [Visual Studio]: https://visualstudio.com
+[XUnit]: https://xunit.github.io/
+[NUnit]: http://nunit.org/
