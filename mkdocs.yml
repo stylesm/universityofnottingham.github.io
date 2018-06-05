@@ -36,3 +36,6 @@ pages:
     - JavaScript: Standards/javascript.md
     - CSS: Standards/css.md
     - PHP: Standards/php.md
+    - .NET:
+      - Overview: Standards/dotnet/index.md
+      - C#: Standards/dotnet/c-sharp.md
