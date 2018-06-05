@@ -40,3 +40,7 @@ pages:
       - Overview: Standards/dotnet/index.md
       - C#: Standards/dotnet/c-sharp.md
       - NuGet Packages: Standards/dotnet/packages.md
+      - .NET Core:
+        - Approved Technologies: Standards/dotnet/core/approved-technologies.md
+      - .NET Framework:
+        - Approved Technologies: Standards/dotnet/fx/approved-technologies.md
