@@ -44,3 +44,13 @@ pages:
         - Approved Technologies: standards/dotnet/core/approved-technologies.md
       - .NET Framework:
         - Approved Technologies: standards/dotnet/fx/approved-technologies.md
+  - Guidelines:
+    - SCRUM in VSTS:
+      - Overview: guidelines/vsts-scrum/index.md
+      - Glossary: guidelines/vsts-scrum/glossary.md
+      - SCRUM: guidelines/vsts-scrum/scrum.md
+      - Definition of Done: guidelines/vsts-scrum/definition-of-done.md
+      - VSTS: guidelines/vsts-scrum/vsts.md
+      - VSTS Setup: guidelines/vsts-scrum/vsts-setup.md
+      - WITS: guidelines/vsts-scrum/wits.md
+      - Customisation: guidelines/vsts-scrum/customisation.md
