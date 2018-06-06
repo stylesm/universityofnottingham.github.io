@@ -28,19 +28,19 @@ pages:
   - Home: index.md
   - Policies: policies.md
   - Standards:
-    - Target Platforms: Standards/target-platforms.md
-    - Version Control: Standards/version-control.md
-    - Versioning: Standards/versioning.md
-    - Continuous Integration: Standards/continuous-integration.md
-    - Code Reviews: Standards/code-reviews.md
-    - JavaScript: Standards/javascript.md
-    - CSS: Standards/css.md
-    - PHP: Standards/php.md
+    - Target Platforms: standards/target-platforms.md
+    - Version Control: standards/version-control.md
+    - Versioning: standards/versioning.md
+    - Continuous Integration: standards/continuous-integration.md
+    - Code Reviews: standards/code-reviews.md
+    - JavaScript: standards/javascript.md
+    - CSS: standards/css.md
+    - PHP: standards/php.md
     - .NET:
-      - Overview: Standards/dotnet/index.md
-      - C#: Standards/dotnet/c-sharp.md
-      - NuGet Packages: Standards/dotnet/packages.md
+      - Overview: standards/dotnet/index.md
+      - C#: standards/dotnet/c-sharp.md
+      - NuGet Packages: standards/dotnet/packages.md
       - .NET Core:
-        - Approved Technologies: Standards/dotnet/core/approved-technologies.md
+        - Approved Technologies: standards/dotnet/core/approved-technologies.md
       - .NET Framework:
-        - Approved Technologies: Standards/dotnet/fx/approved-technologies.md
+        - Approved Technologies: standards/dotnet/fx/approved-technologies.md
