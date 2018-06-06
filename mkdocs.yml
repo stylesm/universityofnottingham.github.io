@@ -45,6 +45,11 @@ pages:
       - .NET Framework:
         - Approved Technologies: standards/dotnet/fx/approved-technologies.md
   - Guidelines:
+    - Recommended Tools: guidelines/recommended-tools.md
+    - Packages: guidelines/packages.md
+    - .NET:
+      - Starting a new Project: guidelines/dotnet/new-project.md
+      - .NET Framework Environment Setup: guidelines/dotnet/fx-environment-setup.md
     - SCRUM in VSTS:
       - Overview: guidelines/vsts-scrum/index.md
       - Glossary: guidelines/vsts-scrum/glossary.md

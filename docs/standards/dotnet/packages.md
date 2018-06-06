@@ -48,11 +48,6 @@ They should be considered deprecated and should not be used in new applications.
 
 If there is code in a `UoN.Common` package that has not been migrated to a new package, then please migrate it before use.
 
-!!! danger "TODO - move to guidelines"
-    [Guide to publishing packages on NuGet](https://docs.microsoft.com/en-us/nuget/create-packages/publish-a-package)
-
-    [Guide to publishing packages on NPM](https://docs.npmjs.com/getting-started/publishing-npm-packages)
-
 [Github]: https://github.com
 [VSTS]: https://universityofnottingham.visualstudio.com
 [Nuget.org]: https://nuget.org
