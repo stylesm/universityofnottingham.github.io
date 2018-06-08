@@ -48,6 +48,6 @@ They should be considered deprecated and should not be used in new applications.
 
 If there is code in a `UoN.Common` package that has not been migrated to a new package, then please migrate it before use.
 
-[Github]: https://github.com
+[GitHub]: https://github.com
 [VSTS]: https://universityofnottingham.visualstudio.com
 [Nuget.org]: https://nuget.org

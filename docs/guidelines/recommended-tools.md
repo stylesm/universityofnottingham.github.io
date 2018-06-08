@@ -9,7 +9,7 @@ GitKraken features:
 * Cross-platform (Windows, Mac, Linux)
 * Modern
 * Supports Git Flow
-* Connects directly to several Git hosting services, including [Github](https://github.com)
+* Connects directly to several Git hosting services, including [GitHub](https://github.com)
 
 ## Text Editor
 

@@ -22,7 +22,7 @@ Please use the `source` branch as the source of authority.
 
 Any other branch is a work in progress or preserved for historical reasons.
 
-`source` is built by [Travis] using [MkDocs] and deployed to `master` hosted by [Github Pages].
+`source` is built by [Travis] using [MkDocs] and deployed to `master` hosted by [GitHub Pages].
 
 # Contributing
 
@@ -78,4 +78,4 @@ Refer to [MkDocs] documentation for further details.
 [Atom]: https://atom.io/
 [PyMdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
 [travis]: https://travis-ci.org
-[Github Pages]: https://pages.github.com/
+[GitHub Pages]: https://pages.github.com/

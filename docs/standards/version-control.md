@@ -4,10 +4,10 @@
     !!! info "Where are our Git repositories?"
         
         - [Visual Studio Team Services] hosts our private git repositories
-        - [Github] hosts any public repositories.
+        - [GitHub] hosts any public repositories.
 
 [Visual Studio Team Services]: https://universityofnottingham.visualstudio.com
-[Github]: https://github.com/universityofnottingham
+[GitHub]: https://github.com/universityofnottingham
 
 ## Git workflows
 
@@ -26,7 +26,7 @@ We use two branch workflows for Git, depending on the needs of the project.
 
 ### Master Branch Only
 
-This workflow is simpler, and is based on [Github Flow] but has some caveats around the fact we don't continuously deploy to Production.
+This workflow is simpler, and is based on [GitHub Flow] but has some caveats around the fact we don't continuously deploy to Production.
 
 !!! tip "For more detailed guidance, refer to the **Guidelines** and **Processes** sections for Git (coming soon)."
 
@@ -50,7 +50,7 @@ All other branches are work-in-progress branches. When work is complete:
 - Approval on an environment allows deployment to the next environment, up until Production.
 - Release to Production is optional, but a release can be made from any merge to `master`.
 
-[Github Flow]: https://guides.github.com/introduction/flow/
+[GitHub Flow]: https://guides.github.com/introduction/flow/
 [versioning]: ./versioning
 
 ### Git Flow
