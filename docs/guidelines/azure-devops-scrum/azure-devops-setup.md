@@ -1,4 +1,4 @@
-#VSTS Workstream Setup (Teams) and General Admin
+#Azure DevOps Workstream Setup (Teams) and General Admin
 
 
 In order to cross-report, move items between teams and for ease of setup; all UoN workstreams are completed within the same 'project' - namely 'ProductCentre.Main'. 
@@ -30,7 +30,7 @@ Start adding your sprints as required.
 
 ##Setting up teams
 
-We utilise the VSTS 'Team' setup in order to manage and run our projects.  Each 'team' will have its own backlog, kanban and time tracking area and should be setup when a new 'project' is starting. 
+We utilise the Azure DevOps 'Team' setup in order to manage and run our projects.  Each 'team' will have its own backlog, kanban and time tracking area and should be setup when a new 'project' is starting. 
 From with [ProductCentre.Main](https://universityofnottingham.visualstudio.com/ProductCentre.Main), click the access menu and select 'New Team' 
 ![Select New Team](./images/CreateTeam.PNG "Select New Team") 
 
@@ -52,7 +52,7 @@ From the menu ribbon, click the cog.  This will open the 'Overview' page.  Then,
 
 
 ##Localisation
-If your VSTS is appearing with American datetime settings, click on your initials or profile image in the top right of VSTS and select 'My Profile'.  
+If your Azure DevOps is appearing with American datetime settings, click on your initials or profile image in the top right of Azure DevOps and select 'My Profile'.  
 ![Select your options](./images/Localisation1.PNG "Select your options") 
 
 On the next screen, select the 'Edit Profile' option.  

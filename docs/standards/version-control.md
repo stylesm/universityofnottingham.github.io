@@ -3,10 +3,10 @@
 
     !!! info "Where are our Git repositories?"
         
-        - [Visual Studio Team Services] hosts our private git repositories
+        - [Azure DevOps] hosts our private git repositories
         - [GitHub] hosts any public repositories.
 
-[Visual Studio Team Services]: https://universityofnottingham.visualstudio.com
+[Azure DevOps]: https://universityofnottingham.visualstudio.com
 [GitHub]: https://github.com/universityofnottingham
 
 ## Git workflows

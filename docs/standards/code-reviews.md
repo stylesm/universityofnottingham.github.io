@@ -1,7 +1,7 @@
 !!! success "We regularly peer review all code."
     To ensure quality control and encourage collaboration and learning within the team, all projects are subject to mandatory code reviews throughout development.
 
-!!! success "We use the Pull Request functionality in [GitHub] and [VSTS] to review code."
+!!! success "We use the Pull Request functionality in [GitHub] and [Azure DevOps] to review code."
 
 !!! success "`develop` and `master` branches can *only* be merged into via Pull Request."
 
@@ -22,4 +22,4 @@
 - Identify areas of code suitable for turning into future shared common code libraries
 
 [GitHub]: https://github.com
-[VSTS]: https://universityofnottingham.visualstudio.com
+[Azure DevOps]: https://universityofnottingham.visualstudio.com

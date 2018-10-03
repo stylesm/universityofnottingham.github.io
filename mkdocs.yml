@@ -50,12 +50,12 @@ pages:
     - .NET:
       - Starting a new Project: guidelines/dotnet/new-project.md
       - .NET Framework Environment Setup: guidelines/dotnet/fx-environment-setup.md
-    - SCRUM in VSTS:
-      - Overview: guidelines/vsts-scrum/index.md
-      - Glossary: guidelines/vsts-scrum/glossary.md
-      - SCRUM: guidelines/vsts-scrum/scrum.md
-      - Definition of Done: guidelines/vsts-scrum/definition-of-done.md
-      - VSTS: guidelines/vsts-scrum/vsts.md
-      - VSTS Setup: guidelines/vsts-scrum/vsts-setup.md
-      - WITS: guidelines/vsts-scrum/wits.md
-      - Customisation: guidelines/vsts-scrum/customisation.md
+    - SCRUM in Azure DevOps:
+      - Overview: guidelines/azure-devops-scrum/index.md
+      - Glossary: guidelines/azure-devops-scrum/glossary.md
+      - SCRUM: guidelines/azure-devops-scrum/scrum.md
+      - Definition of Done: guidelines/azure-devops-scrum/definition-of-done.md
+      - Azure DevOps: guidelines/azure-devops-scrum/azure-devops.md
+      - Azure DevOps Setup: guidelines/azure-devops-scrum/azure-devops-setup.md
+      - WITS: guidelines/azure-devops-scrum/wits.md
+      - Customisation: guidelines/azure-devops-scrum/customisation.md
