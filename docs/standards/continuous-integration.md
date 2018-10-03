@@ -1,4 +1,4 @@
-!!! success "We use [Visual Studio Team Services][VSTS] to automate builds and testing of private repositories."
+!!! success "We use [Azure DevOps] to automate builds and testing of private repositories."
 
 !!! success "We use [Travis-CI] to automate builds and testing of public repositories."
 
@@ -24,7 +24,7 @@ All projects should have their build tasks completed automatically on pushes to 
 
 ## Deployment
 
-!!! info "We do not use Continuous Deployment, but we deploy via [VSTS]."
+!!! info "We do not use Continuous Deployment, but we deploy via [Azure DevOps]."
 
 Most of our applications are deployed by manually triggering a deployment to an environment on the CI / CD server.
 
@@ -35,5 +35,5 @@ Most of our applications are deployed by manually triggering a deployment to an 
     - Ideally we prepare a release to Production once it has passed all other environments.
     - The Service Management Team are then free to approve and schedule deployment of the release once all other conditions have been met.
 
-[VSTS]: https://universityofnottingham.visualstudio.com
+[Azure DevOps]: https://universityofnottingham.visualstudio.com
 [Travis-CI] https://travis-ci.org
