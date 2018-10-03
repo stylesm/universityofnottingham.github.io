@@ -73,8 +73,8 @@ The navigation structure, including Page Names is managed via the `pages` dictio
 Refer to [MkDocs] documentation for further details.
 
 [Markdown]: https://daringfireball.net/projects/markdown/syntax
-[MkDocs]: http://www.mkdocs.org/
-[Visual Studio Code]: http://code.visualstudio.com/
+[MkDocs]: https://www.mkdocs.org/
+[Visual Studio Code]: https://code.visualstudio.com/
 [Atom]: https://atom.io/
 [PyMdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
 [travis]: https://travis-ci.org
