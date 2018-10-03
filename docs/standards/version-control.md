@@ -6,7 +6,7 @@
         - [Azure DevOps] hosts our private git repositories
         - [GitHub] hosts any public repositories.
 
-[Azure DevOps]: https://universityofnottingham.visualstudio.com
+[Azure DevOps]: https://dev.azure.com/UniversityOfNottingham
 [GitHub]: https://github.com/universityofnottingham
 
 ## Git workflows

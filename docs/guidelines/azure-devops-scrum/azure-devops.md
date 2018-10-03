@@ -3,7 +3,7 @@
 
 ##Introduction
 This document is intended to be used by University of Nottingham's Development Teams migrating to TFS for use of Task Management and, in a later phase, Source Code Management (SCM).   These guidelines are industry standards and should be followed by everyone in the development team to develop a vision and sustainable approach by which the University of Nottingham can prioritise IT investments that fuel business growth. 
-VSTS web access can be accessed here; https://universityofnottingham.visualstudio.com.
+Azure DevOps web access can be accessed here; https://dev.azure.com/UniversityOfNottingham.
 
 
 ##Project and Collection Architecture

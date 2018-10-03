@@ -11,7 +11,7 @@ Read
 ##Setup a Backlog
 
 As all teams are hanging off the same project, you'll need to setup a backlog for the team under the ProductCentre.Main iteration.  
-Click here; https://universityofnottingham.visualstudio.com/ProductCentre.Main/_admin/_Work?_a=iterations
+Click here; https://dev.azure.com/UniversityOfNottingham/ProductCentre.Main/_admin/_Work?_a=iterations
 
 Right click on ProductCentre.Main and select 'Add Child'.  
 ![Add Child](./images/CreateBacklog.PNG "Add Child") 
@@ -31,7 +31,7 @@ Start adding your sprints as required.
 ##Setting up teams
 
 We utilise the Azure DevOps 'Team' setup in order to manage and run our projects.  Each 'team' will have its own backlog, kanban and time tracking area and should be setup when a new 'project' is starting. 
-From with [ProductCentre.Main](https://universityofnottingham.visualstudio.com/ProductCentre.Main), click the access menu and select 'New Team' 
+From with [ProductCentre.Main](https://dev.azure.com/UniversityOfNottingham/ProductCentre.Main), click the access menu and select 'New Team' 
 ![Select New Team](./images/CreateTeam.PNG "Select New Team") 
 
 Complete the 'Create new team' information page and click 'Create team' when ready - 
@@ -66,7 +66,7 @@ Finally, click 'Preferences' and change the date pattern and time zone as requir
 For completness, this is how you setup a new project... which you shouldn't... but this is how: 
 
 New projects are setup from the admin page.  
-Direct link is: https://universityofnottingham.visualstudio.com/_projects?_a=new.
+Direct link is: https://dev.azure.com/UniversityOfNottingham/_projects?_a=new.
 
 Once you've given the new project a title and description, click Create; 
 ![Creating a Project](./images/CreateProject1.PNG "Creating a Project") 

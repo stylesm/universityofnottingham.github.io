@@ -22,4 +22,4 @@
 - Identify areas of code suitable for turning into future shared common code libraries
 
 [GitHub]: https://github.com
-[Azure DevOps]: https://universityofnottingham.visualstudio.com
+[Azure DevOps]: https://dev.azure.com/UniversityOfNottingham

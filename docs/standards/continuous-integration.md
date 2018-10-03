@@ -35,5 +35,5 @@ Most of our applications are deployed by manually triggering a deployment to an 
     - Ideally we prepare a release to Production once it has passed all other environments.
     - The Service Management Team are then free to approve and schedule deployment of the release once all other conditions have been met.
 
-[Azure DevOps]: https://universityofnottingham.visualstudio.com
+[Azure DevOps]: https://dev.azure.com/UniversityOfNottingham
 [Travis-CI] https://travis-ci.org
