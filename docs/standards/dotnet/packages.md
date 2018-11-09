@@ -2,9 +2,9 @@
 
 !!! success "We publish packages to [Nuget.org] from [Github] whenever possible."
 
-!!! info "We host packages that cannot be public on private feeds in [VSTS]."
+!!! info "We host packages that cannot be public on private feeds in [Azure DevOps]."
 
-!!! warning "Some older projects use older packages which are hosted on the private `dotnet-legacy` feed in [VSTS]."
+!!! warning "Some older projects use older packages which are hosted on the private `dotnet-legacy` feed in [Azure DevOps]."
 
 ## UoN Packages
 
@@ -42,12 +42,12 @@
 
 ## UoN.Common (deprecated)
 
-The `UoN.Common` packages are still available on [VSTS] on the `dotnet-legacy` feed, as they are used by a number of existing applications.
+The `UoN.Common` packages are still available on [Azure DevOps] on the `dotnet-legacy` feed, as they are used by a number of existing applications.
 
 They should be considered deprecated and should not be used in new applications.
 
 If there is code in a `UoN.Common` package that has not been migrated to a new package, then please migrate it before use.
 
-[Github]: https://github.com
-[VSTS]: https://universityofnottingham.visualstudio.com
+[GitHub]: https://github.com
+[Azure DevOps]: https://dev.azure.com/UniversityOfNottingham
 [Nuget.org]: https://nuget.org

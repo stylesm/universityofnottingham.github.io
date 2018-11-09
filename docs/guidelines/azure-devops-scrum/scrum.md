@@ -8,8 +8,8 @@ This document will provide the guidance, process flow and meetings involved to s
 ## Pre-Reading 
 Any colleagues using the AGILE (SCRUM) methodology should watch these videos ([here](https://www.youtube.com/watch?v=9TycLR0TqFA) and [here](https://www.youtube.com/watch?v=XU0llRltyFM)) and further reading is available on https://www.scrum.org and http://www.scrumguides.org
 
-## Visual Studio Team Services (VSTS) 
-The Application Lifecycle Management tool of choice is Visual Studio Team Services (VSTS) using the UoN SCRUM (v1.0) process template.   VSTS web access can be accessed here; https://universityofnottingham.visualstudio.com.  
+## Azure DevOps
+The Application Lifecycle Management tool of choice is Visual Studio Team Services (Azure DevOps) using the UoN SCRUM (v1.0) process template.   Azure DevOps web access can be accessed here; https://dev.azure.com/UniversityOfNottingham
 
 
 ## Roles and Responsibilities

@@ -1,6 +1,6 @@
 #Customisation of WITs
 
-In order to gain maximum MI from VSTS, some customisation has been made to WITs and the Process Flow.  
+In order to gain maximum MI from Azure DevOps, some customisation has been made to WITs and the Process Flow.  
 
 These are listed here;  
 
