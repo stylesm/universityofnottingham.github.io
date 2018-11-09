@@ -9,7 +9,7 @@ The team should take the 5 compulsory DOD items and pick a minimum of 3 optional
 ##Compulsory DOD Items
 
 - Acceptance Criteria of Product Owner are met   
-- VSTS updated - remaining hours for task(s) set to 0 and all sub-task(s) are closed  
+- Azure DevOps updated - remaining hours for task(s) set to 0 and all sub-task(s) are closed  
 - Code is commented and checked in source control  
 - Code is Unit Tested  
 - Peer reviewed and meets development coding standards  

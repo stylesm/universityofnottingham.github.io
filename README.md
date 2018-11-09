@@ -22,7 +22,7 @@ Please use the `source` branch as the source of authority.
 
 Any other branch is a work in progress or preserved for historical reasons.
 
-`source` is built by [Travis] using [MkDocs] and deployed to `master` hosted by [Github Pages].
+`source` is built by [Travis] using [MkDocs] and deployed to `master` hosted by [GitHub Pages].
 
 # Contributing
 
@@ -73,9 +73,9 @@ The navigation structure, including Page Names is managed via the `pages` dictio
 Refer to [MkDocs] documentation for further details.
 
 [Markdown]: https://daringfireball.net/projects/markdown/syntax
-[MkDocs]: http://www.mkdocs.org/
-[Visual Studio Code]: http://code.visualstudio.com/
+[MkDocs]: https://www.mkdocs.org/
+[Visual Studio Code]: https://code.visualstudio.com/
 [Atom]: https://atom.io/
 [PyMdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
 [travis]: https://travis-ci.org
-[Github Pages]: https://pages.github.com/
+[GitHub Pages]: https://pages.github.com/

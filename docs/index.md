@@ -34,7 +34,7 @@ Notably, this site does **not** provide documentation for:
     * Documentation for these things can be found on a private [internal docs] site.
 * Documentation for individual applications produced by the University.
     * These applications should have general documentation contained within their source repositories.
-        * On [Github] this documentation may be published as a Github Pages site.
+        * On [GitHub] this documentation may be published as a GitHub Pages site.
         * Internally this documentation may be published on an [internal docs] site.
     * These applications may also have instance specific documentation which will be held internally to the University by the Service Management team.
 
@@ -44,4 +44,4 @@ Refer to the site's [Git repository](https://github.com/UniversityOfNottingham/u
 
 [University of Nottingham]: https://nottingham.ac.uk
 [Internal Docs]: http://app.dev.nottingham.ac.uk
-[github]: https://github.com
+[GitHub]: https://github.com

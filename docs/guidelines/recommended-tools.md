@@ -9,7 +9,7 @@ GitKraken features:
 * Cross-platform (Windows, Mac, Linux)
 * Modern
 * Supports Git Flow
-* Connects directly to several Git hosting services, including [Github](https://github.com)
+* Connects directly to several Git hosting services, including [GitHub](https://github.com)
 
 ## Text Editor
 
@@ -23,7 +23,7 @@ This is obviously personal preference, but if you're looking for suggestions, th
 
 ## REST / HTTP client
 
-If you find yourself needing to test API's, you'll want a client designed to do that.
+If you find yourself needing to test APIs, you'll want a client designed to do that.
 
 * [Postman] (Windows, Mac, Chrome App)
 * [Insomnia] (Windows, Mac, Linux)
